@@ -1,0 +1,9 @@
+{
+	"cpp init": {
+		"prefix": ["cpp", "cpp-init" , "cppinit"],
+		"body": [
+			"#include<bits/stdc++.h>\nusing namespace std;\n\ntypedef long long int ll;\n\nvoid solve(){\n\t$1\n}\n\nint main()\n{\n\tll t;cin>>t;\n\twhile(t--)solve();\n}"
+		],
+		"description": "Log output to console"
+	}
+}
